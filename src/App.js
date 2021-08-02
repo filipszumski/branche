@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React - gumka
+          Learn React - olowek
         </a>
       </header>
     </div>
